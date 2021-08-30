@@ -32,10 +32,6 @@ Implement landing page according to [Figma design](https://www.figma.com/file/Uj
 11. `git push origin develop` - to send you code for PR
 12. Create a Pull Request (PR) from your branch `develop` to branch `master` of original repo.
 13. Replace `<your_account>` with your Github username in the
-  [DEMO LINK](https://AndriyNikorych.github.io/Kickstarter/)
+  [DEMO LINK](https://AndriyNikorych.github.io/kickstarter_project/)
 14. Copy `DEMO LINK` to the PR description
-
-> To update you PR repeat steps 7-11
-
---> [CHECKLIST](https://github.com/mate-academy/Kickstarter/blob/master/Checklist.md)
 
