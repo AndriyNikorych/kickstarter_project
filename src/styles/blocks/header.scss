@@ -33,23 +33,21 @@
   }
 
   &__buy {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 102px;
-    height: 48px;
-    background-color: $colorDarkGrey;
-    transition: background-color 1s;
-
-    &:hover {
-      background-color: #131313;
-    }
-
     &-link {
       font-size: 12px;
       line-height: 15px;
       color: #fff;
       text-decoration: none;
+
+      width: 102px;
+      height: 48px;
+      background-color: $colorDarkGrey;
+      transition: background-color 1s;
+      cursor: pointer;
+
+      &:hover {
+        background-color: #131313;
+      }
     }
   }
 
