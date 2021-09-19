@@ -10,20 +10,19 @@ Implement landing page according to [Figma design](https://www.figma.com/file/Uj
 - Tablet 768px
 - Mobile (> 320px)
 
-1. Implement the header with `nav`.
-1. Implement `Benefits` block.
-1. Implement `Presentation` block.
-1. Implement `About us` block with the card reused 3 times.
-1. Implement `Technology` block with 4 process cards.
-1. Implement `Testimonials` block.
-1. Implement `Features` block.
-1. Implement `Questions` block
-1. Implement the footer.
+This is demonstration of visualization of the layout design
 
+Technologies and approaches used: 
+
+- CSS
+- HTML5
+- BEM
+- SASS
+- Grid and Flexbox
 
 
 ## Instructions how to install
-1. **Fork** the repo.
-2. **Clone** the forked one. (The project link should have your name but not `mate-academy`)
-3. Run `npm install` (or just `npm i`)
-4. Run `npm start`.
+
+- Fork and clone this repository
+- Run `npm install` in your terminal
+- Run `npm start`
